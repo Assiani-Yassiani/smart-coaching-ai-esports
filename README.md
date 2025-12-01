@@ -4,7 +4,7 @@ Application complète de gestion et d'entraînement pour équipes et coachs espo
 
 ## 🎥 Démonstration Vidéo
 
-[![Video Demo](https://i.vimeocdn.com/video/1944761179_640.jpg)](https://vimeo.com/1103401579)
+[![Video Demo](esports.png)](https://vimeo.com/1103401579)
 
 **[▶️ Voir la démonstration complète](https://vimeo.com/1103401579)**
 
